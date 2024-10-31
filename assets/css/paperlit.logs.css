@@ -1,0 +1,8 @@
+/*.paperlit_page_paperlit-logs {padding:10px 20px; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif !important;}*/
+.paperlit_page_paperlit-logs .error .label {background: #c22d26;}
+.paperlit_page_paperlit-logs .success .label {background: #7dc42a;}
+.paperlit_page_paperlit-logs .info .label {background: #000;}
+.paperlit_page_paperlit-logs .label {color:#fff; text-transform:capitalize; padding:2px;width:60px;text-align:center;display:inline-block}
+.paperlit_page_paperlit-logs p { font-size: 12px; line-height: 20px; margin: 5px 0;}
+.paperlit_page_paperlit-logs h1 {margin:0 0 10px; color:#333;font-weight:300}
+/*#publishing_console { padding:10px; margin: 0 auto; font-family:"Courier New", Courier, monospace; border:1px solid #d9d9d9;background:#f2f2f2; }*/
